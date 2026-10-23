@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 44" role="img" aria-label="Greeno — Pompage solaire &amp; irrigation">
+  <defs>
+    <linearGradient id="gr-vert" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7DC242"/>
+      <stop offset="1" stop-color="#3A9A35"/>
+    </linearGradient>
+  </defs>
+  <!-- « G » vert avec sa feuille -->
+  <path d="M30.5 9.2A15.5 15.5 0 1 0 34 26.4H22.6" fill="none" stroke="url(#gr-vert)" stroke-width="6.2" stroke-linecap="round"/>
+  <path d="M20.6 25.6c3.4-6.6 10.2-8.2 14.6-7.4-.9 5.6-6 9.6-14.6 7.4z" fill="#8CC63F"/>
+  <!-- « reen » bleu marine, « o » orange -->
+  <text x="40" y="30" font-family="Montserrat, Inter, 'Segoe UI', Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="-0.5" fill="#1C2A6E">reen<tspan fill="#F7931E">o</tspan></text>
+  <text x="41" y="40.5" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="5.6" font-weight="700" letter-spacing="0.6" fill="#1C2A6E">POMPAGE SOLAIRE &amp; IRRIGATION</text>
+</svg>

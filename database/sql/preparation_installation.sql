@@ -1,0 +1,3 @@
+-- REMPLACÉ par database/sql/prep_inst.sql (appels du CX, même structure que la table d'origine).
+-- Ne pas exécuter ce fichier. Si la table preparation_installation a déjà été créée, elle n'est plus utilisée
+-- par le CRM et peut rester en place.
